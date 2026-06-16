@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/acexyz04/discord-bot-template?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/acexyz04/discord-bot-template?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nextcord-Latest-5865F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/discord-Latest-5865F2?style=for-the-badge">
 </p>
 
 ---
