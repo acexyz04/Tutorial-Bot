@@ -40,7 +40,8 @@ Designed for developers who want to understand the fundamentals of Discord bot d
 ```bash
 DiscordBot/
 │
-├── main.py
+├── commands.py
+├── bot.py
 ├── requirements.txt
 └── README.md
 ```
