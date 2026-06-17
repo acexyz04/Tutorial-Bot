@@ -1,7 +1,7 @@
 # 🤖 Discord Bot Template
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Discord+Bot+Template;Built+with+Python;Powered+by+Nextcord" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Discord+Bot+Template;Built+with+Python;Powered+by+Discord" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## ⚡ About
 
-This project is a clean and beginner-friendly Discord Bot template written in Python using Nextcord.
+This project is a clean and beginner-friendly Discord Bot template written in Python using Discord.
 
 Designed for developers who want to understand the fundamentals of Discord bot development without unnecessary complexity.
 
