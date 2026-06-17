@@ -35,17 +35,6 @@ Designed for developers who want to understand the fundamentals of Discord bot d
 
 ---
 
-## 📂 Project Structure
-
-```bash
-DiscordBot/
-│
-├── commands.py
-├── bot.py
-├── requirements.txt
-└── README.md
-```
-
 ## 🚀 Quick Start
 
 ```bash
